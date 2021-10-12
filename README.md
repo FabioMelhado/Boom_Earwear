@@ -1,5 +1,6 @@
 <b> Boom Earwear | A HTML, CSS and Javascript Project </b>
 
-<a href="http://projeto1.freecluster.eu/" target="_blank">Check out the website here!</a> 
+Check out the website live at:
+http://projeto1.freecluster.eu/
 
 Thank You.
